@@ -1,2 +1,2 @@
-# Arewa-Data-Science-Project-Generating-Data
+# Arewa-Data-Science-Project
 Python Programming Fellowship Project
