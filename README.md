@@ -1,6 +1,2 @@
 # ArewaDS-Project_Generating_Data
-Python Programming Fellowship Project
-This is a project desined to equipped us with basic patterns and flows of data.
-The exercise were/practice were carried out in reference to Python cash course 3rd edition.
-Thus the project availed us with basic understanding of setting the environment to generate data, \and eventually apply 
-the python modulea such as matplotlib and plotlib to structure and visualize the data for analysis, conclusion as well as making a decision.
+This Python Programming Fellowship Project focuses on the essential skill of generating data, which is crucial in the field of data science. As a students in the project we learn how to configure the environment to access and download data from a variety of sources. This foundational skill enables us to use Python libraries like Matplotlib and Plotly for visualizing and analyzing the data collected. The project also helps us grasp how to retrieve, process, and organize data for further analysis, and also to draw insights and make informed, data-driven decisions. Mastering the ability to generate and manipulate data is a vital part of the data science workflow, and this project plays a significant role in reinforcing that knowledge.
